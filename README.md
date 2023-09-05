@@ -1,5 +1,16 @@
 # Weather Station Monitoring System
 
+![Project Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![C Version](https://img.shields.io/badge/C17-blue.svg)
+![ESP Version](https://img.shields.io/badge/ESP8266-yellow.svg)
+![ACS Version](https://img.shields.io/badge/ACS712-red.svg)
+![Arduino Version](https://img.shields.io/Arduino-UNO-lightgreen.svg)
+![ArduinoIDE Version](https://img.shields.io/badge/ArduinoIDE-2.1.1-grey.svg)
+![Adafruit](https://img.shields.io/badge/Adafruit-black.svg)
+![Zapier](https://img.shields.io/badge/Zapier-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-red.svg)
+
+
 ![Weather Station Image](https://user-images.githubusercontent.com/83889037/265812357-5ac1a871-d814-44b7-9641-197e8cdf0aca.png)
 
 ## Table of Contents
