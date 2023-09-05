@@ -61,7 +61,7 @@ The Weather Station Monitoring System is an IoT-based project that allows you to
 
 
 
-##Usage
+## Usage
 1) Connect the hardware components as per the provided schematics (add schematics or wiring instructions to the repository).
 
 2) Power up the NodeMCU using the Micro USB cable.
@@ -80,7 +80,7 @@ You can analyze and visualize the weather data using Jupyter Notebook. The provi
 3) Run the cells in the notebook to generate visualizations and insights from your weather data.
 
 
-##Contributing
+## Contributing
 Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
 
 1) Fork the repository.
@@ -91,7 +91,7 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 6) Create a pull request to the main repository's main branch.
 
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
