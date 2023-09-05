@@ -6,7 +6,7 @@
 ![ACS Version](https://img.shields.io/badge/ACS712-red.svg)
 ![Arduino](https://img.shields.io/badge/Arduino-UNO-lightgreen.svg)
 ![ArduinoIDE Version](https://img.shields.io/badge/ArduinoIDE-2.1.1-grey.svg)
-![Adafruit](https://img.shields.io/badge/Adafruit-black.svg)
+![Adafruit](https://img.shields.io/badge/AdafruitIO-black.svg)
 ![Zapier](https://img.shields.io/badge/Zapier-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-red.svg)
 
