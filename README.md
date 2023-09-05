@@ -1,7 +1,7 @@
 # Weather-Station-
 # Weather Station Monitoring System
 
-![Weather Station Image](insert_image_url_here)
+![Weather Station Image]([insert_image_url_here](https://twitter.com/SunsetAdmiirer))
 
 ## Table of Contents
 - [Description](#description)
