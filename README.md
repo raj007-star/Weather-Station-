@@ -4,7 +4,7 @@
 ![C Version](https://img.shields.io/badge/C17-blue.svg)
 ![ESP Version](https://img.shields.io/badge/ESP8266-yellow.svg)
 ![ACS Version](https://img.shields.io/badge/ACS712-red.svg)
-![Arduino Version](https://img.shields.io/Arduino-UNO-lightgreen.svg)
+![Arduino](https://img.shields.io/Arduino-UNO-green.svg)
 ![ArduinoIDE Version](https://img.shields.io/badge/ArduinoIDE-2.1.1-grey.svg)
 ![Adafruit](https://img.shields.io/badge/Adafruit-black.svg)
 ![Zapier](https://img.shields.io/badge/Zapier-orange.svg)
