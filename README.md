@@ -1,7 +1,7 @@
 # Weather-Station-
 # Weather Station Monitoring System
 
-![Weather Station Image]([https://github.com/raj007-star/Weather-Station-/assets/83889037/5ac1a871-d814-44b7-9641-197e8cdf0aca])
+![Weather Station Image](https://user-images.githubusercontent.com/83889037/265812357-5ac1a871-d814-44b7-9641-197e8cdf0aca.png)
 
 ## Table of Contents
 - [Description](#description)
