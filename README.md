@@ -89,7 +89,7 @@ You can analyze and visualize the weather data using Jupyter Notebook. The provi
 
 3) Run the cells in the notebook to generate visualizations and insights from your weather data.
 
-## [CODE OF CONDUCT] (https://github.com/raj007-star/Weather-Station-/blob/b9c31eb4c9e591762a629b10611b67041309f7bf/CODE_OF_CONDUCT.md)
+## [CODE OF CONDUCT](https://github.com/raj007-star/Weather-Station-/blob/b9c31eb4c9e591762a629b10611b67041309f7bf/CODE_OF_CONDUCT.md)
 
 ## Contributing
 Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
