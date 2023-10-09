@@ -23,6 +23,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+def
 
 ## Description
 The Weather Station Monitoring System is an IoT-based project that allows you to monitor weather conditions in real-time. It collects data using various sensors and sends it to the ThingSpeak cloud platform for storage and visualization. This README provides an overview of the project's components, setup, and usage.
