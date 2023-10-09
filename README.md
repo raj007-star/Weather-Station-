@@ -91,7 +91,7 @@ You can analyze and visualize the weather data using Jupyter Notebook. The provi
 
 ## [CODE OF CONDUCT](https://github.com/raj007-star/Weather-Station-/blob/b9c31eb4c9e591762a629b10611b67041309f7bf/CODE_OF_CONDUCT.md)
 
-## Contributing
+## [Contributing](https://github.com/raj007-star/Weather-Station-System/blob/c0200af071602a1d349a68032b9fbbdd0e3b91ee/CONTRIBUTING.md)
 Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
 
 1) Fork the repository.
